@@ -16,7 +16,7 @@ zeeklog2pandas
 
 
 
-Read Zeeek/Bro log and log.gz (even broken ones) into a Pandas Dataframe.
+Read Zeeek/Bro log and log.gz (even broken ones) into a Pandas DataFrame.
 
 
 * Free software: MIT license
@@ -26,7 +26,13 @@ Read Zeeek/Bro log and log.gz (even broken ones) into a Pandas Dataframe.
 Features
 --------
 
-* TODO
+* zeeklog2pandas allows to read Zeek/Bro .log files or compressed .log.gz files, transparently into a Pandas DataFrames. 
+  
+* Best effort reading of corrupted or incomplete compressed .log.gz files.
+
+* Columns filtering.
+
+* Interface compatible with Pandas `read_csv()` function.
 
 Credits
 -------
