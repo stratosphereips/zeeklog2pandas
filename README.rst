@@ -20,7 +20,7 @@ Read Zeeek/Bro log and log.gz (even broken ones) into a Pandas DataFrame.
 
 
 * Free software: MIT license
-* Documentation: https://zeeklog2pandas.readthedocs.io.
+* Documentation: https://zeeklog2pandas.readthedocs.io/en/latest.
 
 
 Features
