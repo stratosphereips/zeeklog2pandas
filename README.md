@@ -1,2 +1,2 @@
-# repository-template
-This repository is a template with basic elements that every repository at Stratosphere should follow.
+# zeeklog2pandas
+Read Zeeek/Bro log and log.gz (even broken ones) into a Pandas Dataframe.
