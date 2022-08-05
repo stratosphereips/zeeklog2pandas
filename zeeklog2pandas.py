@@ -52,6 +52,7 @@ def read_zeek(path, **kwargs):
             except EOFError:
                 break
         df = pd.DataFrame(lines, columns=header['fields'])
-    if 'ts' in df.keys():
-        df['ts'] = pd.to_datetime(df.ts, unit='s')
+    # not responsability of read_zeek, convert dates outside
+    #if 'ts' in df.keys():
+    #    df['ts'] = pd.to_datetime(df.ts, unit='s')
     return df
