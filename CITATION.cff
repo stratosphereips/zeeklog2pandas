@@ -16,7 +16,7 @@ authors:
       Technical University in Prague
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "zeeklog2pandas"
-version: 0.1.3-rc2
+version: 1.0
 doi: -
 date-released: 2022-08-02
 url: "https://github.com/stratosphereips/zeeklog2pandas"

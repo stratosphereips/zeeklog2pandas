@@ -2,7 +2,7 @@ import gzip
 import datetime as dt
 import pandas as pd
 
-__version__ = '0.1.3-rc4'
+__version__ = '1.0'
 
 class NotAZeekFile(Exception):
     pass
