@@ -19,7 +19,7 @@ setup(
     author_email='joaquinbogado@duck.com',
     python_requires='>=3.6',
     classifiers=[
-        'Development Status :: 2 - Pre-Alpha',
+        'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
@@ -40,6 +40,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/stratosphereips/zeeklog2pandas',
-    version='1.0',
+    version='1.0.1',
     zip_safe=False,
 )
