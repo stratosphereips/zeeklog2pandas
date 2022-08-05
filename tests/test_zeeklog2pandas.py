@@ -5,7 +5,7 @@
 
 import unittest
 
-from zeeklog2pandas.zeeklog2pandas import read_zeek
+from .. zeeklog2pandas import read_zeek
 import pandas as pd
 
 class TestZeeklog2pandas(unittest.TestCase):
