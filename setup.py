@@ -35,10 +35,10 @@ setup(
     include_package_data=True,
     keywords='zeeklog2pandas',
     name='zeeklog2pandas',
-    packages=find_packages(include=['zeeklog2pandas.*']),
+    packages=find_packages(include=['.', 'zeeklog2pandas.*']),
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/stratosphereips/zeeklog2pandas',
-    version='0.1.3-rc2',
+    version='0.1.3-rc3',
     zip_safe=False,
 )
