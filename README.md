@@ -1,4 +1,7 @@
 # zeeklog2pandas  
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/stratosphereips/zeeklog2pandas/main)
+[![CI](https://github.com/stratosphereips/zeeklog2pandas/actions/workflows/publish-to-test.yml/badge.svg)](https://github.com/stratosphereips/zeeklog2pandas/actions/workflows/docker-image.yml)
+
 Read Zeeek/Bro log and log.gz (even broken ones) into a Pandas Dataframe.  
 
 ## Installation
