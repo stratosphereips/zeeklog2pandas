@@ -10,6 +10,6 @@ authors:
       Stratosphere Laboratory, AIC, FEL, Czech
       Technical University in Prague
   orcid: "0000-0001-9491-5698"
-version: 1.0.1
+version: 1.0.2
 date-released: 2022-08-02
 url: "https://github.com/stratosphereips/zeeklog2pandas"
