@@ -3,7 +3,7 @@
 [![CI](https://github.com/stratosphereips/zeeklog2pandas/actions/workflows/publish-to-test.yml/badge.svg)](https://github.com/stratosphereips/zeeklog2pandas/actions/workflows/docker-image.yml)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/zeeklog2pandas)
 
-Read Zeeek/Bro log and log.gz (even broken ones) into a Pandas Dataframe.  
+Read Zeek/Bro log and log.gz (even broken ones) into a Pandas Dataframe.  
 
 ## Installation
 ### With pip
